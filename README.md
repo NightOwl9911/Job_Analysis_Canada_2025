@@ -6,13 +6,13 @@ This project explores the Canadian data job market to identify the most valuable
 The primary goal is to leverage Python libraries—specifically **Pandas**, **Matplotlib**, and **Seaborn**—to conduct comprehensive data analysis and visualization. By analyzing real job postings, salary trends, and skill demand, this analysis aims to provide actionable insights on which skills are most sought after and highest-paying in the Canadian market, helping guide strategic learning decisions. 📈
 
 
-***
+
 
 ## ◼️ Background and Motivation 🎯
 The transition into **Data Science** is an exciting but challenging journey, and understanding the current job market landscape is crucial. 💼 My motivation for this project stems from a passion for mastering **Python** and building a strong foundation as a **Data Analyst**, with the ultimate goal of evolving into a **Data Scientist**. 🚀 
 
 Rather than learning skills in isolation, I wanted to take a data-driven approach—analyzing real market demand and salary patterns to prioritize which tools and techniques to focus on. This project serves as both a practical learning experience with essential Python libraries and a strategic roadmap for developing a competitive skill set in Canada's data job market. 🎯
-***
+
 
 
 ## ◼️ Data Sources 🗄️
@@ -32,7 +32,7 @@ The dataset contains comprehensive information about job listings with multiple 
 - And more relevant job market data
 
 This rich dataset provides the foundation for analyzing **trends**, **skills demand**, and **salary patterns** in the Canadian data job market. 🚀
-***
+
 
 ## ◼️ Methodology 🔬
 ### ◆ EDA (Exploratory Data Analysis)
@@ -40,7 +40,7 @@ This rich dataset provides the foundation for analyzing **trends**, **skills dem
 ### ◆ Trend of Top Skills
 ### ◆ Salary Analysis
 ### ◆ Optimal Skills to Learn
-***
+
 ## ◼️ Tools Used ⚙️
 - **Python**: The backbone of everything—this is where the magic happens. I used it to analyze and visualize job market data with pandas for data manipulation, matplotlib and seaborn for creating compelling visualizations, plus foundational Python skills to tie it all together.
 
@@ -93,11 +93,11 @@ This rich dataset provides the foundation for analyzing **trends**, **skills dem
 #### ◇ Data Scientist Analysis
 
 
-***
+
 ## ◼️ Key Findings 🔎
 
-***
+
 ## ◼️ Leaning Takeaways 📖
 
-***
+
 ## ◼️ Conclusions 📝
